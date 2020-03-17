@@ -1,8 +1,9 @@
 'use strict';
 
 function add_icon(service, name, account) {
-    return `<a href="https://${service}.com/${account}" target="_blank">
-              <img src="https://raw.githubusercontent.com/nordic-rse/map/gh-pages/icons/${service}.png"
+    return `<a id="img-link" href="https://${service}.com/${account}" target="_blank">
+              <img id="img-link"
+                   src="https://raw.githubusercontent.com/nordic-rse/map/gh-pages/icons/${service}.png"
                    alt="${service} account logo for ${name}"
                    width="15" height="15">
             </a>`;
