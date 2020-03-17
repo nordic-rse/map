@@ -12,6 +12,7 @@ persons:
 
 groups:
   - name: "Aalto RSE group"
+    num_members: 0
     homepage: https://scicomp.aalto.fi
     twitter: SciCompAalto
     github: AaltoScienceIT
