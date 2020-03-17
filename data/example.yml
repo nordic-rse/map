@@ -1,17 +1,14 @@
 persons:
   - name: John Doe
     homepage: https://example.org
-    github: bast
-    gitlab: bast
     lat: 55.715043
     lon: 13.212401
-  - name: Steve Brule
+  - name: Radovan Bast
+    homepage: https://bast.fr
     twitter: __radovan
+    github: bast
+    gitlab: bast
     place: UiT
-  - name: Kilgore Trout
-    homepage: https://example.org
-    lat: 59.94347
-    lon: 10.718161
 
 groups:
   - name: "Aalto RSE group"
