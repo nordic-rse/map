@@ -5,7 +5,7 @@ function add_icon(service, name, account) {
               <img id="img-link"
                    src="https://raw.githubusercontent.com/nordic-rse/map/gh-pages/icons/${service}.png"
                    alt="${service} account logo for ${name}"
-                   width="15" height="15">
+                   width="18" height="18">
             </a>`;
 }
 
