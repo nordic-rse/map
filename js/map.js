@@ -10,25 +10,25 @@ function add_icon(service, name, account) {
 }
 
 
-function popup_text(person) {
+function popup_text(person_or_group) {
     var s = ''
 
-    if (person.homepage != undefined) {
-        s += `<a href="${person.homepage}" target="_blank">${person.name}</a>`;
+    if (person_or_group.homepage != undefined) {
+        s += `<a href="${person_or_group.homepage}" target="_blank">${person_or_group.name}</a>`;
     } else {
-        s += person.name;
+        s += person_or_group.name;
     }
 
-    if (person.github != undefined) {
-        s += add_icon('github', person.name, person.github);
+    if (person_or_group.github != undefined) {
+        s += add_icon('github', person_or_group.name, person_or_group.github);
     }
 
-    if (person.gitlab != undefined) {
-        s += add_icon('gitlab', person.name, person.gitlab);
+    if (person_or_group.gitlab != undefined) {
+        s += add_icon('gitlab', person_or_group.name, person_or_group.gitlab);
     }
 
-    if (person.twitter != undefined) {
-        s += add_icon('twitter', person.name, person.twitter);
+    if (person_or_group.twitter != undefined) {
+        s += add_icon('twitter', person_or_group.name, person_or_group.twitter);
     }
 
     return s;
@@ -51,8 +51,8 @@ function load_map(args) {
             var persons = _data.persons;
             var places = coordinates_of_places(_data.places);
 
-            var map_persons = L.map(args.id).setView([63.0, 15.0], 4);
-            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {}).addTo(map_persons);
+            var leaflet_map = L.map(args.id).setView([63.0, 15.0], 4);
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {}).addTo(leaflet_map);
 
             for (const person of persons) {
 
@@ -61,7 +61,7 @@ function load_map(args) {
 
                 var marker = L.circleMarker([lat, lon], {
                     radius: 10
-                }).addTo(map_persons);
+                }).addTo(leaflet_map);
                 marker.bindPopup(popup_text(person));
             }
         })
