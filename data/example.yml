@@ -1,6 +1,7 @@
 persons:
   - name: John Doe
     homepage: https://example.org
+    email: 'somebody@example.org'
     lat: 55.715043
     lon: 13.212401
   - name: Radovan Bast

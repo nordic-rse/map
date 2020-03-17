@@ -1,10 +1,11 @@
 'use strict';
 
-function add_icon(service, name, account) {
-    return `<a id="img-link" href="https://${service}.com/${account}" target="_blank">
+function add_icon(service, account) {
+    var href = (service == 'email') ? `mailto:${account}` : `https://${service}.com/${account}`.lat;
+    return `<a id="img-link" href="${href}" target="_blank">
               <img id="img-link"
                    src="https://raw.githubusercontent.com/nordic-rse/map/gh-pages/icons/${service}.png"
-                   alt="${service} account logo for ${name}"
+                   alt="${service} account logo"
                    width="18" height="18">
             </a>`;
 }
@@ -20,15 +21,20 @@ function popup_text(person_or_group) {
     }
 
     if (person_or_group.github != undefined) {
-        s += add_icon('github', person_or_group.name, person_or_group.github);
+        s += add_icon('github', person_or_group.github);
     }
 
     if (person_or_group.gitlab != undefined) {
-        s += add_icon('gitlab', person_or_group.name, person_or_group.gitlab);
+        s += add_icon('gitlab', person_or_group.gitlab);
     }
 
     if (person_or_group.twitter != undefined) {
-        s += add_icon('twitter', person_or_group.name, person_or_group.twitter);
+        s += add_icon('twitter', person_or_group.twitter);
+    }
+
+    // email icon by Icon Island licensed under CC BY 3.0
+    if (person_or_group.email != undefined) {
+        s += add_icon('email', person_or_group.email);
     }
 
     return s;
