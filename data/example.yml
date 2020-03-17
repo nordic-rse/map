@@ -7,14 +7,23 @@ persons:
     lon: 13.212401
   - name: Steve Brule
     twitter: __radovan
-    lat: 69.6798
-    lon: 18.9710
-  - name: Bobson Dugnutt
-    homepage: https://example.org
-    twitter: __radovan
-    lat: 60.178511
-    lon: 24.833543
+    place: UiT
   - name: Kilgore Trout
     homepage: https://example.org
     lat: 59.94347
     lon: 10.718161
+
+groups:
+  - name: "Aalto RSE group"
+    homepage: https://scicomp.aalto.fi
+    twitter: SciCompAalto
+    github: AaltoScienceIT
+    place: Aalto
+
+places:
+  - name: UiT
+    lat: 69.6798
+    lon: 18.9710
+  - name: Aalto
+    lat: 60.178511
+    lon: 24.833543
