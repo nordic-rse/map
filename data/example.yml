@@ -9,6 +9,7 @@ persons:
     github: bast
     gitlab: bast
     place: UiT
+    skills: ['Python', 'Git', 'JavaScript', 'CMake', 'Rust', 'Fortran']
 
 groups:
   - name: "Aalto RSE group"
