@@ -44,25 +44,36 @@ function coordinates_of_places(places) {
 }
 
 
+function add_marker(map, places, person_or_group, color) {
+    var lat = (person_or_group.place != undefined) ? places[person_or_group.place][0] : person_or_group.lat;
+    var lon = (person_or_group.place != undefined) ? places[person_or_group.place][1] : person_or_group.lon;
+
+    var marker = L.circleMarker([lat, lon], {
+        radius: 10
+    }).setStyle({
+        color: color
+    }).addTo(map);
+    marker.bindPopup(popup_text(person_or_group));
+}
+
+
 function load_map(args) {
     axios.get(args.data_url)
         .then(function(response) {
             var _data = jsyaml.load(response.data);
             var persons = _data.persons;
+            var groups = _data.groups;
             var places = coordinates_of_places(_data.places);
 
             var leaflet_map = L.map(args.id).setView([63.0, 15.0], 4);
             L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {}).addTo(leaflet_map);
 
             for (const person of persons) {
+                add_marker(leaflet_map, places, person, "#3383ff");
+            }
 
-                var lat = (person.place != undefined) ? places[person.place][0] : person.lat;
-                var lon = (person.place != undefined) ? places[person.place][1] : person.lon;
-
-                var marker = L.circleMarker([lat, lon], {
-                    radius: 10
-                }).addTo(leaflet_map);
-                marker.bindPopup(popup_text(person));
+            for (const group of groups) {
+                add_marker(leaflet_map, places, group, "#dc33ff");
             }
         })
 };
