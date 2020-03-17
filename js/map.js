@@ -35,18 +35,31 @@ function popup_text(person) {
 }
 
 
+function coordinates_of_places(places) {
+    var dict = {};
+    for (const place of places) {
+        dict[place.name] = [place.lat, place.lon];
+    }
+    return dict;
+}
+
+
 function load_map(args) {
-    var persons = [];
     axios.get(args.data_url)
         .then(function(response) {
             var _data = jsyaml.load(response.data);
-            persons = _data.persons;
+            var persons = _data.persons;
+            var places = coordinates_of_places(_data.places);
 
             var map_persons = L.map(args.id).setView([63.0, 15.0], 4);
             L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {}).addTo(map_persons);
 
             for (const person of persons) {
-                var marker = L.circleMarker([person.lat, person.lon], {
+
+                var lat = (person.place != undefined) ? places[person.place][0] : person.lat;
+                var lon = (person.place != undefined) ? places[person.place][1] : person.lon;
+
+                var marker = L.circleMarker([lat, lon], {
                     radius: 10
                 }).addTo(map_persons);
                 marker.bindPopup(popup_text(person));
