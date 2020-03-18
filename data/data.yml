@@ -14,11 +14,15 @@ persons:
 
 groups:
   - name: "Aalto RSE group"
-    num_members: 0
+    num_members: 10
     homepage: https://scicomp.aalto.fi
     twitter: SciCompAalto
     github: AaltoScienceIT
     place: Aalto
+  - name: "NTNU Trondheim RSE Community"
+    num_members: 10
+    homepage: https://rse.org.ntnu.no
+    place: NTNU
 
 places:
   - name: UiT
@@ -27,3 +31,6 @@ places:
   - name: Aalto
     lat: 60.178511
     lon: 24.833543
+  - name: NTNU
+    lat: 63.415865
+    lon: 10.406666
