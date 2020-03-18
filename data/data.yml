@@ -23,6 +23,11 @@ groups:
     num_members: 10
     homepage: https://rse.org.ntnu.no
     place: NTNU
+  - name: IEDL - Industrial Ecology Digital Lab
+    num_members: 3
+    homepage: https://iedl.no
+    email: contact@iedl.no
+    place: NTNU
 
 places:
   - name: UiT
