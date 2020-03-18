@@ -8,7 +8,6 @@
 
 You can add yourself or your group to this map by sending a pull request changing the
 [data file](https://github.com/nordic-rse/map/blob/gh-pages/data/data.yml).
-
 The data is provided in [YAML format](https://en.wikipedia.org/wiki/YAML).
 
 
