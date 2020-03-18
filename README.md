@@ -16,8 +16,7 @@ The data is provided in [YAML format](https://en.wikipedia.org/wiki/YAML).
 
 The data contains a list of `persons` and a list of `groups`.  Some people will
 prefer to be listed individually but some will prefer to be represented only as
-group. You can do either. There are also `places` and we will come back to
-them.
+group. You can do either. There are also `places` (see below).
 
 ```yaml
 persons:
@@ -93,7 +92,7 @@ places:
 ### Optional fields
 
 The fields `homepage`, `twitter`, `github`, `gitlab`, `skills`, and
-`num_members` are optional.
+`num_members` (only relevant for groups) are optional.
 
 ```yaml
 persons:
