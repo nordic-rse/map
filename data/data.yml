@@ -28,6 +28,8 @@ groups:
     homepage: https://iedl.no
     email: 'contact@iedl.no'
     place: NTNU
+    lat: 63.415759
+    lon: 10.407178
 
 places:
   - name: UiT
