@@ -26,7 +26,7 @@ groups:
   - name: IEDL - Industrial Ecology Digital Lab
     num_members: 3
     homepage: https://iedl.no
-    email: contact@iedl.no
+    email: 'contact@iedl.no'
     place: NTNU
 
 places:
