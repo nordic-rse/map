@@ -91,13 +91,15 @@ places:
 
 ### Optional fields
 
-The fields `homepage`, `twitter`, `github`, `gitlab`, `skills`, and
-`num_members` (only relevant for groups) are optional.
+The fields `homepage`, `email`, `twitter`, `github`, `gitlab`, `skills`, and
+`num_members` (only relevant for groups) are optional. If you provide an email
+address, please place it between quotes.
 
 ```yaml
 persons:
   - name: Radovan Bast
     homepage: https://bast.fr
+    email: 'somebody@example.org'
     twitter: __radovan
     github: bast
     gitlab: bast
