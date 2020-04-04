@@ -6,15 +6,14 @@
 
 ## Table of contents
 
-- [Research software engineers in the Nordics](#research-software-engineers-in-the-nordics)
-   - [Built using these libraries](#built-using-these-libraries)
-   - [Documentation about the data format and fields](#documentation-about-the-data-format-and-fields)
-      - [Persons and groups](#persons-and-groups)
-      - [Required fields](#required-fields)
-      - [How to specify your location](#how-to-specify-your-location)
-      - [Optional fields](#optional-fields)
-      - [Number of group members](#number-of-group-members)
-      - [Skills](#skills)
+- [Built using these libraries](#built-using-these-libraries)
+- [Documentation about the data format and fields](#documentation-about-the-data-format-and-fields)
+   - [Persons and groups](#persons-and-groups)
+   - [Required fields](#required-fields)
+   - [How to specify your location](#how-to-specify-your-location)
+   - [Optional fields](#optional-fields)
+   - [Number of group members](#number-of-group-members)
+   - [Skills](#skills)
 
 
 ## Built using these libraries
