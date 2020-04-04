@@ -4,6 +4,13 @@
 # Research software engineers in the Nordics
 
 
+## Built using these libraries
+
+- https://leafletjs.com
+- https://github.com/Leaflet/Leaflet.markercluster
+- https://nodeca.github.io/js-yaml/
+
+
 ## Documentation about the data format and fields
 
 You can add yourself or your group to this map by sending a pull request changing the
