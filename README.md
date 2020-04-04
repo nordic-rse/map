@@ -4,6 +4,19 @@
 # Research software engineers in the Nordics
 
 
+## Table of contents
+
+- [Research software engineers in the Nordics](#research-software-engineers-in-the-nordics)
+   - [Built using these libraries](#built-using-these-libraries)
+   - [Documentation about the data format and fields](#documentation-about-the-data-format-and-fields)
+      - [Persons and groups](#persons-and-groups)
+      - [Required fields](#required-fields)
+      - [How to specify your location](#how-to-specify-your-location)
+      - [Optional fields](#optional-fields)
+      - [Number of group members](#number-of-group-members)
+      - [Skills](#skills)
+
+
 ## Built using these libraries
 
 - https://leafletjs.com
@@ -16,13 +29,6 @@
 You can add yourself or your group to this map by sending a pull request changing the
 [data file](https://github.com/nordic-rse/map/blob/gh-pages/data/data.yml).
 The data is provided in [YAML format](https://en.wikipedia.org/wiki/YAML).
-
-- [Persons and groups](#persons-and-groups)
-- [Required fields](#required-fields)
-- [How to specify your location](#how-to-specify-your-location)
-- [Optional fields](#optional-fields)
-- [Number of group members](#number-of-group-members)
-- [Skills](#skills)
 
 
 ### Persons and groups
