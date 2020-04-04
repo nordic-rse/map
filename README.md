@@ -10,6 +10,13 @@ You can add yourself or your group to this map by sending a pull request changin
 [data file](https://github.com/nordic-rse/map/blob/gh-pages/data/data.yml).
 The data is provided in [YAML format](https://en.wikipedia.org/wiki/YAML).
 
+- [Persons and groups](#persons-and-groups)
+- [Required fields](#required-fields)
+- [How to specify your location](#how-to-specify-your-location)
+- [Optional fields](#optional-fields)
+- [Number of group members](#number-of-group-members)
+- [Skills](#skills)
+
 
 ### Persons and groups
 
