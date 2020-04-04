@@ -4,10 +4,10 @@
 
 /* https://stackoverflow.com/a/33721891 */
 #img-link, #img-link img{
-   text-decoration: none !important;
-   border:0px !important;
-   outline:none;
-   border-width: 0px;
-   outline-width:0px;
-   border-bottom: none;
+  text-decoration: none !important;
+  border: 0px !important;
+  outline: none;
+  border-width: 0px;
+  outline-width: 0px;
+  border-bottom: none;
 }
