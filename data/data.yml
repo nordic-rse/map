@@ -11,9 +11,13 @@ persons:
     gitlab: bast
     place: UiT
     skills: ['Python', 'Git', 'JavaScript', 'CMake', 'Rust', 'Fortran']
+  - name: Richard Darst
+    github: rkdarst
+    place: Aalto
+    skills: ['Python', 'Git', 'HPC', 'Linux', 'C', 'datascience']
 
 groups:
-  - name: "Aalto RSE group"
+  - name: "Aalto Scientific Computing"
     num_members: 10
     homepage: https://scicomp.aalto.fi
     twitter: SciCompAalto
