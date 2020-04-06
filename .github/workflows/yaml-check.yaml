@@ -1,0 +1,21 @@
+name: Check yaml
+on: [push]
+
+jobs:
+  yamlcheck:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v1
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: |
+          pip install pyyaml
+      - name: check yaml
+        # Apparently, if you do this using "find -exec" in one
+        # command, it does not exit with a failure status.
+        run: |
+          find . -type f \( -name '*.yaml' -o -name '*.yml' \) -print0 | xargs -0 -i python -c "import yaml ; yaml.safe_load(open('{}'))" || exit 1
