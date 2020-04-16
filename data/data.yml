@@ -1,3 +1,14 @@
+# By adding data to this file, you are publishing it to the world
+# (without limits or privacy protection) until you choose to remove
+# it.  We won't alter git history after you remove it.  Don't submit
+# information on people who haven't agreed to this.
+
+# LICENSE: This database and contents are CC-BY-SA 4.0.  By
+# submitting, you agree:
+#   https://creativecommons.org/licenses/by-sa/4.0/
+# Data consumers may attribute authors collectively by linking to the
+# upstream map/data.
+
 persons:
   - name: Radovan Bast
     homepage: https://bast.fr
