@@ -27,6 +27,11 @@ persons:
     twitter: AnneFouilloux 
     place: UiO
     skills: ['Python', 'R', 'Git', 'datascience', 'containers', 'geospatial', 'climate modeling']
+  - name: Jarno Rantaharju
+    homepage: http://jarno.rantaharju.info/
+    github: rantahar
+    place: Helsinki-Kumpula
+    skills: ['C', 'C++', 'Python', 'Git', 'statistics', 'computational physics', 'quantum field theory']
 
 groups:
   - name: "Aalto Scientific Computing"
@@ -61,3 +66,7 @@ places:
   - name: UiO
     lat: 59.94
     lon: 10.72
+  - name: Helsinki-Kumpula
+    lat: 60.209110
+    lon: 24.964750
+
