@@ -32,6 +32,12 @@ persons:
     github: rantahar
     place: Helsinki-Kumpula
     skills: ['C', 'C++', 'Python', 'Git', 'statistics', 'computational physics', 'quantum field theory']
+  - name: Radek Lonka
+    place: IEDL
+  - name: Konstantin Stadler
+    place: IEDL
+  - name: K. Thor Wikfeldt
+    place: KTH
 
 groups:
   - name: "Aalto Scientific Computing"
@@ -69,4 +75,7 @@ places:
   - name: Helsinki-Kumpula
     lat: 60.209110
     lon: 24.964750
+  - name: KTH
+    lat: 59.3416653
+    lon: 18.070333052
 
