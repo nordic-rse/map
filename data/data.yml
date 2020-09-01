@@ -21,6 +21,12 @@ persons:
     github: rkdarst
     place: Aalto
     skills: ['Python', 'Git', 'HPC', 'Linux', 'C', 'datascience']
+  - name: Enrico Glerean
+    homepage: https://eglerean.github.io/
+    github: eglerean
+    twitter: eglerean
+    place: Aalto
+    skills: ['Matlab', 'Git', 'Linux', 'timeseries analysis', 'data management', 'GDPR and research ethics', 'statistics', 'neuroscience']
   - name: Anne Fouilloux
     homepage: https://annefou.github.io/
     github: annefou
