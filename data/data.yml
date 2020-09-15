@@ -41,6 +41,10 @@ persons:
   - name: Radek Lonka
     place: IEDL
   - name: Konstantin Stadler
+    twitter: kst_stadler
+    github: konstantinstadler
+    gitlab: konstantinstadler
+    skills: ['Python', 'Git', 'Rust', 'Matlab', 'datascience', 'Linux']
     place: IEDL
   - name: K. Thor Wikfeldt
     place: KTH
