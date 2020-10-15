@@ -54,6 +54,11 @@ persons:
     github: wmvanvliet
     skills: ['Python', 'Matlab', 'C', 'Git', 'neuroscience', 'Linux', 'FreeBSD', 'linear models', 'mayavi', 'latex']
     place: Aalto
+  - name: Waldir Leoncio
+    place: UiO
+    homepage: https://www.med.uio.no/imb/english/people/adm/waldirln/index.html
+    github: wleoncio
+    skills: ['Linux', 'R', 'VSCodium', 'Git', 'Markdown', 'LaTeX', 'Python', 'C++']
 
 groups:
   - name: "Aalto Scientific Computing"
