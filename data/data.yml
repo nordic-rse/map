@@ -59,6 +59,10 @@ persons:
     homepage: https://www.med.uio.no/imb/english/people/adm/waldirln/index.html
     github: wleoncio
     skills: ['Linux', 'R', 'VSCodium', 'Git', 'Markdown', 'LaTeX', 'Python', 'C++']
+  - name: Simo Tuomisto
+    place: Aalto
+    github: simo-tuomisto
+    skills: ['HPC', 'Python', 'R', 'Linux', 'C', 'Fortran', 'containers', 'Spack', 'deep learning']
 
 groups:
   - name: "Aalto Scientific Computing"
