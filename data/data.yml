@@ -67,6 +67,7 @@ persons:
     place: UiO
     homepage: https://drmowinckels.io/
     github: Athanasiamo
+    twitter: DrMowinckels
     skills: ['Linux', 'R', 'Git', 'Markdown', 'SQL']
 
 groups:
