@@ -63,6 +63,12 @@ persons:
     place: Aalto
     github: simo-tuomisto
     skills: ['HPC', 'Python', 'R', 'Linux', 'C', 'Fortran', 'containers', 'Spack', 'deep learning']
+  - name: Athanasia Monika Mowinckel
+    place: UiO
+    homepage: https://drmowinckels.io/
+    github: Athanasiamo
+    twitter: DrMowinckels
+    skills: ['Linux', 'R', 'Git', 'Markdown', 'SQL']
 
 groups:
   - name: "Aalto Scientific Computing"
