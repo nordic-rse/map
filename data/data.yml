@@ -69,6 +69,12 @@ persons:
     github: Athanasiamo
     twitter: DrMowinckels
     skills: ['Linux', 'R', 'Git', 'Markdown', 'SQL']
+  - name: Ravindra Shinde
+    place: University of Twente
+    homepage: https://www.neelravi.com
+    github: neelravi
+    twitter: ravindrashinde
+    skills: ['python', 'Fortran', 'C++', 'Hugo', 'Jekyll', 'Git', 'Linux', 'HPC']    
 
 groups:
   - name: "Aalto Scientific Computing"
