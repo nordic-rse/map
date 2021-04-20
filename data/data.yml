@@ -69,6 +69,12 @@ persons:
     github: Athanasiamo
     twitter: DrMowinckels
     skills: ['Linux', 'R', 'Git', 'Markdown', 'SQL']
+  - name: Patric Holmvall
+    place: UU
+    github: PatricHolmvall
+    gitlab: Holmvall
+    twitter: PatricHolmvall
+    skills: ['C++', 'CMake', 'CUDA', 'Git', 'HPC', 'LaTeX', 'Linux', 'Physics', 'Python']
 
 groups:
   - name: "Aalto Scientific Computing"
@@ -109,4 +115,7 @@ places:
   - name: KTH
     lat: 59.3416653
     lon: 18.070333052
-
+  - name: UU
+    lat: 59.8509
+    lon: 17.6300
+    
