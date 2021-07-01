@@ -75,6 +75,12 @@ persons:
     gitlab: Holmvall
     twitter: PatricHolmvall
     skills: ['C++', 'CMake', 'CUDA', 'Git', 'HPC', 'LaTeX', 'Linux', 'Physics', 'Python']
+  - name: Samantha Wittke
+    place: Aalto
+    github: samumantha
+    gitlab: samumantha
+    twitter: swittke1
+    skills : ['Linux', 'Python', 'datascience', 'geospatial', 'Earth Observation', 'Git', 'LaTeX']
 
 groups:
   - name: "Aalto Scientific Computing"
