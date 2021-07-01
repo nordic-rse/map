@@ -78,9 +78,8 @@ persons:
   - name: Samantha Wittke
     place: Aalto
     github: samumantha
-    gitlab: samumantha
     twitter: swittke1
-    skills : ['Linux', 'Python', 'datascience', 'geospatial', 'Earth Observation', 'Git', 'LaTeX']
+    skills : ['Python', 'datascience', 'geospatial', 'remote sensing', 'LaTeX']
 
 groups:
   - name: "Aalto Scientific Computing"
