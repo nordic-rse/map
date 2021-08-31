@@ -3,24 +3,7 @@
 
 # Research software engineers in the Nordics
 
-
-## Table of contents
-
-- [Built using these libraries](#built-using-these-libraries)
-- [Documentation about the data format and fields](#documentation-about-the-data-format-and-fields)
-   - [Persons and groups](#persons-and-groups)
-   - [Required fields](#required-fields)
-   - [How to specify your location](#how-to-specify-your-location)
-   - [Optional fields](#optional-fields)
-   - [Number of group members](#number-of-group-members)
-   - [Skills](#skills)
-
-
-## Built using these libraries
-
-- https://leafletjs.com
-- https://github.com/Leaflet/Leaflet.markercluster
-- https://nodeca.github.io/js-yaml/
+This is data behind the community map at https://nordic-rse.org/.
 
 
 ## Documentation about the data format and fields
