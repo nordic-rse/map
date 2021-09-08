@@ -80,6 +80,17 @@ persons:
     github: samumantha
     twitter: swittke1
     skills : ['Python', 'datascience', 'geospatial', 'remote sensing', 'LaTeX']
+  - name: Ashwin Vishnu Mohanan
+    place: SU
+    homepage: https://fluid.quest/
+    github: ashwinvis
+    gitlab: avmo
+    gitlab_instance: foss.heptapod.net
+    gitea: ashwinvis
+    gitea_instance: codeberg.org
+    mastodon: ashwinvis
+    mastodon_instance: mastodon.acc.sunet.se
+    skills: ['C', 'CI/CD', 'CSS', 'Fortran', 'Git', 'HTML', 'LaTeX', 'Linux', 'MPI', 'Mercurial', 'Python', 'computational fluid dynamics', 'debugging', 'packaging', 'parallel programming', 'testing']
 
 groups:
   - name: "Aalto Scientific Computing"
@@ -123,4 +134,7 @@ places:
   - name: UU
     lat: 59.8509
     lon: 17.6300
-    
+  - name: SU
+    lat: 59.3661410
+    lon: 18.0589277
+
