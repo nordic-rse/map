@@ -92,9 +92,10 @@ places:
 
 ### Optional fields
 
-The fields `homepage`, `email`, `twitter`, `github`, `gitlab`, `skills`, and
-`num_members` (only relevant for groups) are optional. If you provide an email
-address, please place it between quotes.
+The fields `homepage`, `email`, `twitter`, `github`, `gitlab`,
+`gitlab_instance`, `gitea`, `gitea_instance`, `mastodon`, `mastodon_instance`
+`skills`, and `num_members` (only relevant for groups) are optional. If you
+provide an email address, please place it between quotes.
 
 ```yaml
 persons:
