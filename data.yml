@@ -79,6 +79,12 @@ persons:
     github: samumantha
     twitter: swittke1
     skills : ['Python', 'datascience', 'geospatial', 'remote sensing', 'LaTeX']
+  - name: Rohit Goswami
+    homepage: https://rgoswami.me/  
+    place: Reykjavik, UI
+    github: HaoZeke
+    twitter: HaoZeke
+    skills: ['C++', 'Fortran', 'R', 'HPC', 'Comp Chem', 'Machine learning', 'Bayesian statistics', 'Nix', 'Python', 'NumPy']
 
 groups:
   - name: "Aalto Scientific Computing"
@@ -122,4 +128,6 @@ places:
   - name: UU
     lat: 59.8509
     lon: 17.6300
-    
+  - name: UI
+    lat: 64.14
+    lon: -21.95
