@@ -34,9 +34,8 @@ persons:
     place: UiO
     skills: ['Python', 'R', 'Git', 'datascience', 'containers', 'geospatial', 'climate modeling']
   - name: Jarno Rantaharju
-    homepage: http://jarno.rantaharju.info/
     github: rantahar
-    place: Helsinki-Kumpula
+    place: Aalto
     skills: ['C', 'C++', 'Python', 'Git', 'statistics', 'computational physics', 'quantum field theory']
   - name: Radek Lonka
     place: IEDL
@@ -91,6 +90,12 @@ persons:
     mastodon: ashwinvis
     mastodon_instance: mastodon.acc.sunet.se
     skills: ['C', 'CI/CD', 'CSS', 'Fortran', 'Git', 'HTML', 'LaTeX', 'Linux', 'MPI', 'Mercurial', 'Python', 'computational fluid dynamics', 'debugging', 'packaging', 'parallel programming', 'testing']
+  - name: Rohit Goswami
+    homepage: https://rgoswami.me/  
+    place: Reykjavik, UI
+    github: HaoZeke
+    twitter: HaoZeke
+    skills: ['C++', 'Fortran', 'R', 'HPC', 'Comp Chem', 'Machine learning', 'Bayesian statistics', 'Nix', 'Python', 'NumPy']
 
 groups:
   - name: "Aalto Scientific Computing"
@@ -137,4 +142,6 @@ places:
   - name: SU
     lat: 59.3661410
     lon: 18.0589277
-
+  - name: UI
+    lat: 64.14
+    lon: -21.95
