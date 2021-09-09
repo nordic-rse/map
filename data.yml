@@ -34,9 +34,8 @@ persons:
     place: UiO
     skills: ['Python', 'R', 'Git', 'datascience', 'containers', 'geospatial', 'climate modeling']
   - name: Jarno Rantaharju
-    homepage: http://jarno.rantaharju.info/
     github: rantahar
-    place: Helsinki-Kumpula
+    place: Aalto
     skills: ['C', 'C++', 'Python', 'Git', 'statistics', 'computational physics', 'quantum field theory']
   - name: Radek Lonka
     place: IEDL
