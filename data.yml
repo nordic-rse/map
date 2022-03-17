@@ -96,7 +96,11 @@ persons:
     github: HaoZeke
     twitter: HaoZeke
     skills: ['C++', 'Fortran', 'R', 'HPC', 'Comp Chem', 'Machine learning', 'Bayesian statistics', 'Nix', 'Python', 'NumPy']
-
+  - name: Thomas Pfau
+    place: Aalto
+    github: tpfau
+    skills: ['Matlab','Java','Linear Programming','Constraint Based Metabolic Modelling','Python','Git']
+    
 groups:
   - name: "Aalto Scientific Computing"
     num_members: 10
