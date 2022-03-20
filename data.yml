@@ -120,32 +120,51 @@ groups:
 
 places:
   - name: UiT
+    longname: University of Tromsø
+    country: 'NO'
     lat: 69.6798
     lon: 18.9710
   - name: Aalto
+    longname: Aalto University
+    country: FI
     lat: 60.18595
     lon: 24.82706
   - name: NTNU
+    longname: Norwegian University of Science and Technology, Trondheim
+    country: 'NO'
     lat: 63.415865
     lon: 10.406666
   - name: IEDL
+    longname: Industrial Ecology Digital Lab, Trondheim
+    country: 'NO'
     lat: 63.415759
     lon: 10.407178
   - name: UiO
+    longname: University of Oslo
+    country: 'NO'
     lat: 59.94
     lon: 10.72
   - name: Helsinki-Kumpula
+    country: FI
     lat: 60.2051
     lon: 24.9634
   - name: KTH
+    longname: Royal Institute of Technology in Stockholm
+    country: SE
     lat: 59.3416653
     lon: 18.070333052
   - name: UU
+    longname: Uppsala University
+    country: SE
     lat: 59.8509
     lon: 17.6300
   - name: SU
+    longname: Stockholm University
+    country: SE
     lat: 59.3661410
     lon: 18.0589277
   - name: UI
+    longname: University of Iceland
+    country: IS
     lat: 64.14
     lon: -21.95
