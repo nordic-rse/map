@@ -100,6 +100,12 @@ persons:
     place: Aalto
     github: tpfau
     skills: ['Matlab','Java','Linear Programming','Constraint Based Metabolic Modelling','Python','Git']
+  - name: Matteo Tomasini
+    homepage: https://mtomasini.github.io
+    place: GU
+    github: mtomasini
+    twitter: mattomasini
+    skills: ['Python', 'C++', 'R', 'Ubuntu', 'Statistics', 'Population Genetics', 'Mathematical modelling']
     
 groups:
   - name: "Aalto Scientific Computing"
@@ -168,3 +174,8 @@ places:
     country: IS
     lat: 64.14
     lon: -21.95
+  - name: GU
+    longname: University of Gothenburg
+    country: SE
+    lat: 57.68192
+    lon: 11.95021
