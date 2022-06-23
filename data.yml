@@ -106,6 +106,10 @@ persons:
     github: mtomasini
     twitter: mattomasini
     skills: ['Python', 'C++', 'R', 'Ubuntu', 'Statistics', 'Population Genetics', 'Mathematical modelling']
+  - name: Kaveh Karimi-Asli
+    github: ka7eh
+    place: UiO
+    skills: ['Python', 'ECMAScript', 'Rust', 'GIS', 'DevOps', 'Climate Modeling', 'Visualization']
     
 groups:
   - name: "Aalto Scientific Computing"
