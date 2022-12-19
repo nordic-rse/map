@@ -127,6 +127,11 @@ groups:
     homepage: https://iedl.no
     email: 'contact@iedl.no'
     place: IEDL
+  - name: Danish-RSE
+    num_members: 14
+    homepage: https://dighumlab.org/danish-rse
+    email: 'info@dighumlab.org'
+    place: DK
 
 places:
   - name: UiT
@@ -183,3 +188,8 @@ places:
     country: SE
     lat: 57.68192
     lon: 11.95021
+  - name: DK
+    longname: Denmark
+    country: DK
+    lat: 56.172620
+    lon: 10.205580
