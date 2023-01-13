@@ -45,8 +45,12 @@ persons:
     gitlab: konstantinstadler
     skills: ['Python', 'Git', 'Rust', 'Matlab', 'datascience', 'Linux']
     place: IEDL
-  - name: K. Thor Wikfeldt
-    place: KTH
+  - name: Thor Wikfeldt
+    place: RISE
+    github: wikfeldt
+    twitter: ktwikfeldt
+    skills: ['Python', 'Julia', 'Git', 'HPC', 'Physics', 'Training']
+    homepage: https://enccs.se/kjartan-thor-wikfeldt
   - name: Marijn van Vliet
     homepage: https://users.aalto.fi/~vanvlm1
     twitter: wmvanvliet
