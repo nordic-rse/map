@@ -132,6 +132,10 @@ groups:
     homepage: https://dighumlab.org/danish-rse
     email: 'info@dighumlab.org'
     place: DK
+  - name: ENCCS
+    num_members: 8
+    homepage: https://enccs.se/
+    place: RISE
 
 places:
   - name: UiT
@@ -193,3 +197,8 @@ places:
     country: DK
     lat: 56.172620
     lon: 10.205580
+  - name: RISE
+    longname: Research Institutes Sweden
+    country: SE
+    lat: 59.404740
+    lon: 17.949440    
