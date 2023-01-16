@@ -106,9 +106,11 @@ persons:
     skills: ['Matlab','Java','Linear Programming','Constraint Based Metabolic Modelling','Python','Git']
   - name: Matteo Tomasini
     homepage: https://mtomasini.github.io
-    place: GU
+    place: GU Humaniora
     github: mtomasini
     twitter: mattomasini
+    mastodon: mattomasini
+    mastodon_instance: mas.to
     skills: ['Python', 'C++', 'R', 'Ubuntu', 'Statistics', 'Population Genetics', 'Mathematical modelling']
   - name: Kaveh Karimi-Asli
     github: ka7eh
@@ -191,11 +193,11 @@ places:
     country: IS
     lat: 64.14
     lon: -21.95
-  - name: GU
+  - name: GU Humaniora
     longname: University of Gothenburg
     country: SE
-    lat: 57.68192
-    lon: 11.95021
+    lat: 57.694112
+    lon: 11.984754
   - name: DK
     longname: Denmark
     country: DK
