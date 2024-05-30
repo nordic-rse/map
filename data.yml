@@ -116,6 +116,11 @@ persons:
     github: ka7eh
     place: UiO
     skills: ['Python', 'ECMAScript', 'Rust', 'GIS', 'DevOps', 'Climate Modeling', 'Visualization']
+  - name: Filip Berendt
+    place: KTH Royal Institute of Technology
+    github: SuMinRo
+    skills: ['Visualization', 'Game Design', 'Game Development', 'InfoVis', 'SciVis', 'Web Development', 'Volume Rendering', '3D Modeling']
+    group: InfraVis
     
 groups:
   - name: "Aalto Scientific Computing"
@@ -142,6 +147,10 @@ groups:
     num_members: 8
     homepage: https://enccs.se/
     place: RISE
+  - name: InfraVis
+    num_members: 70
+    homepage: https://infravis.se
+    place: ['Chalmers University of Technology', 'Umeå University', 'Mid Sweden University', 'Uppsala University', 'KTH Royal Institute of Technology', 'Linköping University', 'Gothenburg University', 'Linnaeus University', 'Lund University']
 
 places:
   - name: UiT
@@ -174,7 +183,7 @@ places:
     lat: 60.2051
     lon: 24.9634
   - name: KTH
-    longname: Royal Institute of Technology in Stockholm
+    longname: KTH Royal Institute of Technology
     country: SE
     lat: 59.3416653
     lon: 18.070333052
@@ -207,4 +216,4 @@ places:
     longname: Research Institutes Sweden
     country: SE
     lat: 59.404740
-    lon: 17.949440    
+    lon: 17.949440
