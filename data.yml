@@ -221,15 +221,15 @@ places:
     longname: Chalmers University of Technology
     country: SE
     lat: 57.689790
-    long: 11.974145
+    lon: 11.974145
   - name: Umeå
     longname: Umeå University
     country: SE
     lat: 63.820126
-    long: 20.305493
+    lon: 20.305493
   - name: Mittuniversitetet
     longname: Mid Sweden University
     country: SE
     lat: 62.394600
-    long: 17.288062
+    lon: 17.288062
     
