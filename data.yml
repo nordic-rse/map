@@ -150,7 +150,7 @@ groups:
   - name: InfraVis
     num_members: 70
     homepage: https://infravis.se
-    place: ['Chalmers University of Technology', 'Umeå University', 'Mid Sweden University', 'Uppsala University', 'KTH Royal Institute of Technology', 'Linköping University', 'Gothenburg University', 'Linnaeus University', 'Lund University']
+    place: ['Chalmers University of Technology', 'Umeå University', 'Mid Sweden University', 'Uppsala University', 'KTH', 'Linköping University', 'Gothenburg University', 'Linnaeus University', 'Lund University']
 
 places:
   - name: UiT
