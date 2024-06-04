@@ -242,4 +242,8 @@ places:
     country: SE
     lat: 57.698416
     lon: 11.971359
-    
+  - name: Linnaeus
+    longname: Linnaeus University
+    country: SE
+    lat: 56.854528
+    lon: 14.830378
