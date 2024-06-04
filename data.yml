@@ -222,3 +222,8 @@ places:
     country: SE
     lat: 57.689790
     long: 11.974145
+  - name: Umeå
+    longname: Umeå University
+    country: SE
+    lat: 63.820126
+    long: 20.305493
