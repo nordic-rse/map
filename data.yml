@@ -150,7 +150,7 @@ groups:
   - name: InfraVis
     num_members: 70
     homepage: https://infravis.se
-    place: ['Chalmers University of Technology', 'Umeå University', 'Mid Sweden University', 'Uppsala University', 'KTH', 'Linköping University', 'Gothenburg University', 'Linnaeus University', 'Lund University']
+    place: ['Chalmers', 'Umeå University', 'Mid Sweden University', 'Uppsala University', 'KTH', 'Linköping University', 'Gothenburg University', 'Linnaeus University', 'Lund University']
 
 places:
   - name: UiT
@@ -217,3 +217,8 @@ places:
     country: SE
     lat: 59.404740
     lon: 17.949440
+  - name: Chalmers
+    longname: Chalmers University of Technology
+    country: SE
+    lat: 57.689790
+    long: 11.974145
