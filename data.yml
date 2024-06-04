@@ -150,7 +150,7 @@ groups:
   - name: InfraVis
     num_members: 70
     homepage: https://infravis.se
-    place: ['Chalmers', 'Umeå University', 'Mid Sweden University', 'Uppsala University', 'KTH', 'Linköping University', 'Gothenburg University', 'Linnaeus University', 'Lund University']
+    place: ['Chalmers', 'Umeå', 'Mittuniversitetet', 'Uppsala University', 'KTH', 'Linköping University', 'Gothenburg University', 'Linnaeus University', 'Lund University']
 
 places:
   - name: UiT
@@ -227,3 +227,9 @@ places:
     country: SE
     lat: 63.820126
     long: 20.305493
+  - name: Mittuniversitetet
+    longname: Mid Sweden University
+    country: SE
+    lat: 62.394600
+    long: 17.288062
+    
