@@ -151,6 +151,10 @@ groups:
     num_members: 70
     homepage: https://infravis.se
     place: 'KTH'
+  - name: InfraVis
+    num_members: 70
+    homepage: https://infravis.se
+    place: 'Chalmers'
     _place: ['Chalmers', 'Umeå', 'Mittuniversitetet', 'UU', 'KTH', 'LU', 'GU', 'Linnaeus', 'Lund']
 
 places:
