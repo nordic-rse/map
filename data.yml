@@ -117,7 +117,7 @@ persons:
     place: UiO
     skills: ['Python', 'ECMAScript', 'Rust', 'GIS', 'DevOps', 'Climate Modeling', 'Visualization']
   - name: Filip Berendt
-    place: KTH Royal Institute of Technology
+    place: KTH
     github: SuMinRo
     skills: ['Visualization', 'Game Design', 'Game Development', 'InfoVis', 'SciVis', 'Web Development', 'Volume Rendering', '3D Modeling']
     group: InfraVis
