@@ -150,7 +150,7 @@ groups:
   - name: InfraVis
     num_members: 70
     homepage: https://infravis.se
-    place: ['Chalmers', 'Umeå', 'Mittuniversitetet', 'UU', 'KTH', 'LU', 'GU', 'Linnaeus University', 'Lund University']
+    place: ['Chalmers', 'Umeå', 'Mittuniversitetet', 'UU', 'KTH', 'LU', 'GU', 'Linnaeus', 'Lund']
 
 places:
   - name: UiT
@@ -247,3 +247,8 @@ places:
     country: SE
     lat: 56.854528
     lon: 14.830378
+  - name: Lund
+    longname: Lund University
+    country: SE
+    lat: 56.854563
+    lon: 14.830581
