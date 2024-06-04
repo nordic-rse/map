@@ -150,7 +150,8 @@ groups:
   - name: InfraVis
     num_members: 70
     homepage: https://infravis.se
-    place: ['Chalmers', 'Umeå', 'Mittuniversitetet', 'UU', 'KTH', 'LU', 'GU', 'Linnaeus', 'Lund']
+    place: 'KTH'
+    _place: ['Chalmers', 'Umeå', 'Mittuniversitetet', 'UU', 'KTH', 'LU', 'GU', 'Linnaeus', 'Lund']
 
 places:
   - name: UiT
