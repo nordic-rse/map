@@ -150,7 +150,7 @@ groups:
   - name: InfraVis
     num_members: 70
     homepage: https://infravis.se
-    place: ['Chalmers', 'Umeå', 'Mittuniversitetet', 'UU', 'KTH', 'LU', 'Gothenburg University', 'Linnaeus University', 'Lund University']
+    place: ['Chalmers', 'Umeå', 'Mittuniversitetet', 'UU', 'KTH', 'LU', 'GU', 'Linnaeus University', 'Lund University']
 
 places:
   - name: UiT
@@ -237,4 +237,9 @@ places:
     country: SE
     lat: 58.398016
     lon: 15.576152
+  - name: GU
+    longname: Gothenburg University
+    country: SE
+    lat: 57.698416
+    lon: 11.971359
     
