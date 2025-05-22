@@ -253,3 +253,8 @@ places:
     country: SE
     lat: 56.854563
     lon: 14.830581
+  - name: MAXIV
+    longname: MAX IV Laboratory
+    country: SE
+    lat: 55.727497
+    lon: 13.234088
