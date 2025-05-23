@@ -121,6 +121,10 @@ persons:
     github: SuMinRo
     skills: ['Visualization', 'Game Design', 'Game Development', 'InfoVis', 'SciVis', 'Web Development', 'Volume Rendering', '3D Modeling']
     group: InfraVis
+  - name: Heli Juottonen
+    place: CSC
+    github: helijuottonen
+    skills: ['R', 'datascience', 'teaching', 'multivariate statistics', 'bioinformatics', 'microbial ecology']
     
 groups:
   - name: "Aalto Scientific Computing"
@@ -258,3 +262,8 @@ places:
     country: SE
     lat: 55.727497
     lon: 13.234088
+  - name: CSC
+    longname: CSC - IT Center for Science (Espoo)
+    country: FI
+    lat: 60.178194
+    lon: 24.833287
