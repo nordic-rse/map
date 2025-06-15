@@ -125,6 +125,10 @@ persons:
     place: CSC
     github: helijuottonen
     skills: ['R', 'datascience', 'teaching', 'multivariate statistics', 'bioinformatics', 'microbial ecology']
+  - name: Gregor Decristoforo
+    github: gregordecristoforo
+    place: UiT
+    skills: ['Python', 'Git', 'PyTorch', 'LUMI']
     
 groups:
   - name: "Aalto Scientific Computing"
