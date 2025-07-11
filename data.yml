@@ -84,10 +84,9 @@ persons:
     twitter: PatricHolmvall
     skills: ['C++', 'CMake', 'CUDA', 'Git', 'HPC', 'LaTeX', 'Linux', 'Physics', 'Python']
   - name: Samantha Wittke
-    place: Aalto
+    place: CSC
     github: samumantha
-    twitter: swittke1
-    skills : ['Python', 'datascience', 'geospatial', 'remote sensing', 'LaTeX']
+    skills : ['Python', 'datascience', 'Git', 'geospatial', 'remote sensing']
   - name: Ashwin Vishnu Mohanan
     place: SU
     homepage: https://fluid.quest/
