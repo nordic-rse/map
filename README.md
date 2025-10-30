@@ -136,3 +136,14 @@ persons:
     lon: 13.212401
     skills: ['Python', 'Git', 'JavaScript', 'CMake', 'Rust', 'Fortran']
 ```
+
+### Privacy
+
+This map is a publication, and we are supporting your explicit choice to
+express your professional information to the world.  By submitting to this map,
+you are choosing that your data is made public without special privacy
+protection. However the data itself is licensed under the [CC-BY-SA
+license](https://creativecommons.org/licenses/by-sa/4.0/).  We publish your
+information on your behalf until you request it be removed from the current
+version, but we won't alter the Git history. We may contact you to keep things
+up to date or let you know of events.
