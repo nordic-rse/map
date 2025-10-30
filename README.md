@@ -137,7 +137,7 @@ persons:
     skills: ['Python', 'Git', 'JavaScript', 'CMake', 'Rust', 'Fortran']
 ```
 
-### Privacy
+## Privacy
 
 This map is a publication, and we are supporting your explicit choice to
 express your professional information to the world.  By submitting to this map,
