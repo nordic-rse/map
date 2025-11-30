@@ -133,6 +133,11 @@ persons:
     github: gregordecristoforo
     place: UiT
     skills: ['Python', 'Git', 'PyTorch', 'LUMI']
+  - name: Adil Bin Bhutto
+    place: Umeå
+    github: binbhutto
+    homepage: https://abbhutto.com
+    skills: ['Computer Security', 'Distributed Systems', 'Machine Learning', 'Python', 'C', 'Go', 'K8s']
     
 groups:
   - name: "Aalto Scientific Computing"
